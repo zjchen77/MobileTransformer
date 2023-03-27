@@ -1,5 +1,4 @@
-# Mobile-Translator (Replace with your project name)
-
+# Mobile-Translator
 ## Project Status
 
 **Please note:** This project is currently under active development. Some features might be incomplete or subject to change. We appreciate your understanding.
